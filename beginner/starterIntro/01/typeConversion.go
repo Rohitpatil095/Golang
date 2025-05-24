@@ -23,7 +23,7 @@ func main(){
 
 
 	// this pkg and function properly conver int to string 
-	// Itoa means Int to ascii string
+	// Itoa means Int to ascii string 
 	var rightBluffRelease string =strconv.Itoa(somerelease)
 	fmt.Println(rightBluffRelease)
 
